@@ -5,7 +5,7 @@ String color;
 int precio;
 int registro;
 
-void Color(String color) {
+void cambiarColor(String color) {
 if (color == "verde" || color == "amarillo" || color == "blanco" || color == "negro" || color == "rojo") {
 this.colorcambiar = color;
 }
