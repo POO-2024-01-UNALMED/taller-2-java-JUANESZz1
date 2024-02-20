@@ -7,7 +7,7 @@ int registro;
 
 void cambiarColor(String color) {
 if (color == "verde" || color == "amarillo" || color == "blanco" || color == "negro" || color == "rojo") {
-this.colorcambiar = color;
+this.color = color;
 }
 }
 }
